@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,19 +22,55 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "82d1",
+      "cityName": "Trillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-20T08:18:46.359Z",
+      "notes": "TEst",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "40.68063802521456",
+        "lng": "-2.4609375000000004"
+      }
+    },
+    {
+      "id": "9aa1",
+      "cityName": "Midelt",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-04-20T09:02:55.032Z",
+      "notes": "Beautiful City",
+      "position": {
+        "lat": "32.7688004848817",
+        "lng": "-5.295410156250001"
+      }
+    },
+    {
+      "id": "72cc",
+      "cityName": "Aluva",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-20T11:17:02.945Z",
+      "notes": "Wonderful trip !",
+      "position": {
+        "lat": "10.206813072484595",
+        "lng": "76.37695312500001"
+      }
+    },
+    {
+      "id": "fd81",
+      "cityName": "Cherthala",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-20T11:20:17.975Z",
+      "notes": "Beautiful place",
+      "position": {
+        "lat": "9.752370139173285",
+        "lng": "76.31103515625001"
+      }
     }
   ]
 }
